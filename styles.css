@@ -1,0 +1,36 @@
+body {
+  background-color: #393E46;
+  text-align: center;
+}
+.players {
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+  display: inline-block;
+  position: relative;
+  bottom: 50px;
+  margin-top: 30px;
+  margin-right: 70px;
+  margin-left: 70px;
+  margin-bottom: 30px;
+}
+.Refresh {
+  color: #4ECCA3;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 130px;
+  margin-top: 30px;
+}
+.footer {
+  font-family: 'Indie Flower', cursive;
+  color: white;
+  font-size: 15px;
+}
+.dice {
+  max-width: 180px;
+  margin: 30px;
+}
+.dices_class {
+  position: relative;
+  bottom: 70px;
+}
